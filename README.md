@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Deformable DETR
 
 By [Xizhou Zhu](https://scholar.google.com/citations?user=02RXI00AAAAJ),  [Weijie Su](https://www.weijiesu.com/),  [Lewei Lu](https://www.linkedin.com/in/lewei-lu-94015977/), [Bin Li](http://staff.ustc.edu.cn/~binli/), [Xiaogang Wang](http://www.ee.cuhk.edu.hk/~xgwang/), [Jifeng Dai](https://jifengdai.org/).
@@ -167,3 +168,6 @@ You can get the config file and pretrained model of Deformable DETR (the link is
 ```
 
 You can also run distributed evaluation by using ```./tools/run_dist_launch.sh``` or ```./tools/run_dist_slurm.sh```.
+=======
+# deformable forked 
+>>>>>>> origin/main
