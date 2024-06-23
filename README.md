@@ -169,5 +169,3 @@ You can get the config file and pretrained model of Deformable DETR (the link is
 
 You can also run distributed evaluation by using ```./tools/run_dist_launch.sh``` or ```./tools/run_dist_slurm.sh```.
 =======
-# deformable forked 
->>>>>>> origin/main
